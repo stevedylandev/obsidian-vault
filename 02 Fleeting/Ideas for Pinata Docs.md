@@ -1,0 +1,2 @@
+- [x] Make page for Pinata SDK, better docs than what’s on GitHub
+- [ ] Add either tutorials inside the docs or link to blogposts 

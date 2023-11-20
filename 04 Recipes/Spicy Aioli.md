@@ -1,0 +1,5 @@
+-   ¾ cup mayonnaise
+-   2 garlic cloves, finely minced
+-   1 tablespoon lemon juice
+-   1 teaspoon dijon mustard
+-   ½ teaspoon cayenne pepper

@@ -1,0 +1,5 @@
+Subject: Looking for feedback and testing for Photography App
+
+Hey all! Some of my history was spent being a professional photographer for weddings and events, and my wife still currently works for a photographer doing photo editing. A particular problem that seems to arise often is photos getting out of sync because the lead photographer didn’t sync their camera with the second shooter (or vice versa). While this can be fixed in post with Lightroom, it tends to be a pain to do (at least I hear my wife groan when she has to do it haha). 
+
+I decided to build an app that will automatically do this for you, using AI to find similar photos and syncing the metadata  to make them all be in chronological order. It’s still in development, but I would love any feedback on whether this is something you could use, or desire to test it when it’s ready! You can see more details at [framefixer.co](http://framefixer.co)

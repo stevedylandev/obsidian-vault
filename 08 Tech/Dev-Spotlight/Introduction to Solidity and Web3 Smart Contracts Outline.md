@@ -1,0 +1,25 @@
+## Outline
+- Introduction
+	- Blockchains before Ethereum Virtual Machine (EVM)
+	- EVM emergence
+	- Concept of decentralized applications
+	- Solidity and Smart Contracts at the core of EVM
+- What is Solidity?
+	- Statically-typed programming language designed for writing smart contracts on Ethereum and other EVM chains
+	- Gives developers ability to define what a decentralized app can and can't do
+	- Has features such as inheritance, libraries you can import, and can work with complex data types
+- What are Smart Contracts?
+	- Compiled Solidity byte code that runs on the EVM
+	- Allows developers to create apps that can run on blockchains
+	- Blockchains work as a "peer-to-peer" network which can give a trust-less state to applications
+	- Concept of smart contracts being self-governed has brought about the use of tokens, decentralized governance, supply chain integrity, and NFTs
+- Smart Contract Basics
+	- Quick reference to OpenZeppelin standards (e.g. ERC-20, ERC-721, ERC-1155)
+	- Writing a simple smart contract that stores data using Remix (Might go to something more towards ERC-20 to handle token transfers. Also possible to go towards a smart contract that transfers USDC as a segue to Circle APIs later.).
+	- Deploying to the blockchain and interacting with it
+	- Libraries to interact with smart contracts through Ethereum RPC nodes, such as Ethers or Viem
+	- Display how Circle APIs can do a lot with wallets, transfers, and currency exchange with a simple REST Api rather than writing custom smart contracts
+- Conclusion
+	- Recap of solidity and smart contracts 
+	- Resources for deeper dives into smart contracts
+	- Circle API resources for those going to DeFi

@@ -1,0 +1,2 @@
+[[Daily Template]]
+[[Community Update]]
