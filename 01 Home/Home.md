@@ -17,4 +17,4 @@
 ## 🖇️ Misc
 [[Templates]]
 
-Hey there.
+Hey
