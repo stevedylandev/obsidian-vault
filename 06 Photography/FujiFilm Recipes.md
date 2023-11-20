@@ -1,5 +1,4 @@
 **ROMAN FOX - MUTED**
-![[Pasted image 20230804113630.png]]
 Film Simulation: Classic Chrome 
 Mono Colour: NA 
 Grain: STRONG LARGE 
@@ -16,7 +15,6 @@ Sharpness: -2
 Clarity: -2
 
 **MIKE CHIDLEY - PERFECT V2**
-![[Screenshot-Arc-08-04-2023-11-30@2x.png]]
 Film Simulation: Nostalgic Neg or Classic Chrome 
 Grain Effect: Weak, Small 
 Color Chrome Effect: Strong 
@@ -33,7 +31,6 @@ ISO: Auto, up to ISO 6400
 Exposure Compensation: +1/3 (typically)
 
 **JUSTIN GOULD - KOJAK GOLD**
-![[Pasted image 20230804113930.png]]
 Simulation: Classic Negative
 Grain Effect: Weak, Small
 Colour Chrome Effect: Off
@@ -50,7 +47,6 @@ Clarity: -2
 EV compensation: +1/3
 
 **GOUGHIE'S FILM RECIPE**
-![[Screenshot-Arc-08-04-2023-11-24@2x.png]]
 Film simulation: Astia Soft 
 Dynamic Range: DR200 
 White balance: Auto WB 
